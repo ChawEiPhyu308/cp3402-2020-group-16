@@ -1,16 +1,10 @@
 /*
  Theme Name: Group 16 Theme Child
- Template: group-16-theme-parent
+ Template: wp-bootstrap-starter
  Description: Child theme for Group 16
  Version: 0.1
  */
 
-.site-branding {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-}
-
-.site-branding>* {
-    flex: 1;
+h1.entry-title {
+    font-size: 500px;
 }
