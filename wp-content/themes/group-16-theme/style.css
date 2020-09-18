@@ -5,6 +5,22 @@
  Version: 0.1
  */
 
+header#masthead {
+    background-color: #C9E7CB;
+}
+
+.col-lg-8 {
+    flex: 0 0 100%;
+    width: 100%;
+    max-width: 100%;
+}
+
 h1.entry-title {
-    font-size: 500px;
+    font-size: 80px;
+}
+
+h2.has-text-align-center {
+    text-align: left;
+    font-size: 40px;
+    font-weight: 800;
 }
