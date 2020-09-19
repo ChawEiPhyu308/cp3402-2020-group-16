@@ -60,3 +60,9 @@ a.nav-link {
     font-size: 30px;
     color: black;
 }
+
+body:not(.theme-preset-active) #masthead .navbar-nav>li>a {
+    color: black;
+    font-weight: 1rem;
+    font-size: 40px;
+}
