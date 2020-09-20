@@ -23,3 +23,14 @@ So if you notice our top navigation bar we have five buttons which are Home, Con
 
 - **About us** - Here you can see our story from where we started and why we stared the doctor connect. And more about it.
 
+## The Workflow for project
+
+- Cloned website from github.
+- Work on the website with VVV and local by flywheel.
+- After that edit the child theme.
+- Located jn wp-content.
+- Push to github.
+
+## About the project
+
+Doctors Connect Foundation Malaysia's point is in making access for quality medical services to distant difficult to reach and poor financial zones to give quality clinical screening and care for the destitute and deplorable regardless of race, religion, or identity.
