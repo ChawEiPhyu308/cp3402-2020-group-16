@@ -14,7 +14,11 @@ For our theme we used wordpress bootstrep theme its totally basic and simpal use
 So if you notice our top navigation bar we have five buttons which are Home, Contact Us, Blogs, Future Plans, and About Us. By using this navigation you can understand the majority parts of the Doctor connect.
 
 Home - Here you can notice all the important things like whats going on in Doctor connect, there aims and purpose, and in the end more about there services.
+
 Contact Us -  Here you can get details that help you to reach us for information.
+
 Blogs - It gives you updates of our doctor connect.
+
 Plans - Here we explain our steps to make a better future.
+
 About us - Here you can see our story from where we started and why we stared the doctor connect. And more about it.
