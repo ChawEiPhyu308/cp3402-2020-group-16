@@ -7,7 +7,7 @@ __CMS Team 16
 3. Kyaw Pyae Sone- kyawpyaesone@my.jcu.edu.au
 4. Raul Chauhan- raul.chauhan@my.jcu.edu.au
 
-**The Theme For Website 
+The Theme For Website 
 
 For our theme we used wordpress bootstrep theme its totally basic and simpal use  also give good user experience because of its simplicity.The content is put in the middle. So, it doesn't matter which device your watching on it always gets your first attraction. Pictures and text holders are well balanced and going with our theme. The navigation bar is on top of the webpage which makes it easy to control for everyone. There are 2 forms made. Sign Up and Log In. These forms error check the inputs. Forms can be changed however you want. They are already responsive so, you do not need to worry about anything other than editing it according to your needs.
 
