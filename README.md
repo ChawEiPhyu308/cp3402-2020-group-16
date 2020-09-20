@@ -1,6 +1,7 @@
-# **CMS Team 16**
+# CMS Team 16
+## Assignment 2
 
-## **Group Members**
+## Group Members
 
 1. **Chaw Ei Phyu** - chaweiphyu@my.jcu.edu.au
 2. **Sai Aung Myat** - saiaungmyat@my.jcu.edu.au
